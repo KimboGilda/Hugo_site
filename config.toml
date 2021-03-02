@@ -103,21 +103,21 @@ theme = "aafu"
         icon = "fas fa-graduation-cap"
 
         [[params.education.list]]
-            degree = "Ph.D. in Subject"
-            college = "University of State-City"
-            dates = "2013 - 2018"
-            thesis_title = "Effect of humans on other humans: a study of human behavior."
+            degree = "MSc in Geomatics"
+            college = "Swiss Federal Institute of Technology in Zurich (ETH)"
+            dates = "2016-2018"
+            thesis_title = "Semantiv"
             thesis_url = "#"
         [[params.education.list]]
-            degree = "M.S. in Subject"
-            college = "University of State-City"
-            dates = "2013 - 2018"
-            thesis_title = "Effect of humans on other humans: a study of human behavior."
+            degree = "Master in Business Administration (MBA)"
+            college = "Athens University of Economics and Business (AUEB)"
+            dates = "2012 - 2014"
+            thesis_title = ""
             thesis_url = "#"
         [[params.education.list]]
-            degree = "B.S. in Subject"
-            college = "University of State-City"
-            dates = "2004 - 2009"
+            degree = "Master in Rural and Surveying Engineering"
+            college = "National Technical University of Athens (NTUA)"
+            dates = "2005 - 2010"
 
     # Publication section
     [params.publication]
