@@ -103,7 +103,7 @@ icon = "fas fa-graduation-cap"
 title = "Education"
 
 [[params.education.list]]
-college = "Eidgenössische Technische Hochschule Zürich (ETH Zürich)"
+college = "Swiss Federal Institute of Technology in Zurich (ETH Zürich)"
 dates = "2016-2018"
 degree = "MSc in Geomatic Engineering"
 thesis_title = "Cartographic visualization for indoor semantic wayfinding"
