@@ -10,7 +10,7 @@ title = "My site"
 
 [params.theme]
 # Available themes are 'light', 'dark', 'ocean', and 'pinkish'
-mainTheme = "dark"
+mainTheme = "light"
 # setting false below will hide 'aafu by darshan' displayed under the profile pic
 showAttribute = false
 singlePage = false
@@ -77,7 +77,7 @@ item = "skill"
 item = "hobby"
 
 [params.aboutme]
-description = "My name is Nikolaos (Nikos) Bakogiannis. I really love working with geospatial data and "
+description = "My name is Nikolaos Bakogiannis."
 icon = "fas fa-user"
 title = "About Me"
 
@@ -129,28 +129,21 @@ format = ["date", "authors", "title", "journal"]
 types = ["Journal Articles", "Proceedings"]
 
 [[params.publication.list]]
-authors = "F Last, F Second, P secondary"
-date = "2018"
-journal = "Journal of Field 52 (16), 9033-9044"
-title = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-type = "Journal Articles"
-url = "#"
+authors = "Göbel, F., Bakogiannis, N., Henggeler, K., Tschümperlin, R., Xu, Y., Kiefer, P. and Raubal, M"
+date = "2018, January"
+journal = "In Eye Tracking for Spatial Research"
+title = "A Public Gaze-Controlled Campus Map. "
+type = "Proceedings of the 3rd International Workshop. ETH Zurich"
+url = "https://www.research-collection.ethz.ch/handle/20.500.11850/222491"
 
 [[params.publication.list]]
 
-authors = "F Last, F Second, P secondary"
-date = "2018"
-journal = "Journal of Field 52 (16), 9033-9044"
-title = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+authors = "Bakogiannis, N., Gkonos, C. and Hurni, L."
+date = "2019"
+journal = "Multimodal Technologies and Interaction, 3(1), p.22."
+title = "Cartographic Visualization for Indoor Semantic Wayfinding."
 type = "Journal Articles"
-url = "#"
-[[params.publication.list]]
-authors = "F Last, F Second, P secondary"
-date = "2018"
-journal = "Journal of Field 52 (16), 9033-9044"
-title = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-type = "Proceedings"
-url = "#"
+url = "https://www.mdpi.com/2414-4088/3/1/22"
 
 # Project section
 [params.project]
