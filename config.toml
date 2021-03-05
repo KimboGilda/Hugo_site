@@ -29,7 +29,7 @@ use = true
 # Profile section
 [params.profile]
 location = "Zurich, CH"
-name = "Nikolaos Bakogiannis, Bako"
+name = "Nikolaos Bakogiannis"
 photo = "bako_profile.jpg"
 tagline = ""
 
