@@ -41,23 +41,23 @@ title = "Links"
 [[params.social.list]]
 icon = "fab fa-stack-overflow"
 title = "StackOverflow"
-url = "#"
+url = "https://stackoverflow.com/users/12337730/kimbogilda"
 [[params.social.list]]
 icon = "fab fa-github"
 title = "GitHub"
 url = "https://github.com/KimboGilda"
-[[params.social.list]]
-icon = "fab fa-orcid"
-title = "Orcid"
-url = "#"
-[[params.social.list]]
-icon = "ai ai-google-scholar"
-title = "Google Scholar"
-url = "#"
-[[params.social.list]]
-icon = "fab fa-researchgate"
-title = "ResearchGate"
-url = "#"
+# [[params.social.list]]
+# icon = "fab fa-orcid"
+# title = "Orcid"
+# url = "#"
+# [[params.social.list]]
+# icon = "ai ai-google-scholar"
+# title = "Google Scholar"
+# url = "#"
+# [[params.social.list]]
+# icon = "fab fa-researchgate"
+# title = "ResearchGate"
+# url = "#"
 
 #Specify what is showin in the Accordion
 [[params.showInAccordion]]
@@ -87,14 +87,14 @@ icon = "fas fa-briefcase"
 title = "Experience"
 
 [[params.experience.list]]
-company = "Company Name"
+company = "Zurich University of Applied Sciences (ZHAW)"
 dates = "2019 - *Present*"
-details = "Printed from desktop. Sent [emails](#). Called people using telephone. Drank water from office cooler. Ate donuts on people's birthdays."
-position = "Job Title"
+details = ""
+position = "Scientific Assistant in Geoinformatic Research Group"
 [[params.experience.list]]
-company = "Company Name"
+company = "Leica Geosystems AG"
 dates = "2018 - 2019"
-position = "Job Title"
+position = "Intern in Computer Vision Department"
 url = "#"
 
 # Education section
@@ -103,11 +103,11 @@ icon = "fas fa-graduation-cap"
 title = "Education"
 
 [[params.education.list]]
-college = "Swiss Federal Institute of Technology in Zurich (ETH)"
+college = "Eidgenössische Technische Hochschule Zürich (ETH Zürich)"
 dates = "2016-2018"
-degree = "MSc in Geomatics"
-thesis_title = "Semantiv"
-thesis_url = "#"
+degree = "MSc in Geomatic Engineering"
+thesis_title = "Cartographic visualization for indoor semantic wayfinding"
+thesis_url = "https://karto.ethz.ch/studium/studentenarbeiten/master/master.html"
 [[params.education.list]]
 college = "Athens University of Economics and Business (AUEB)"
 dates = "2012 - 2014"
@@ -115,7 +115,7 @@ degree = "Master in Business Administration (MBA)"
 thesis_title = ""
 thesis_url = "#"
 [[params.education.list]]
-college = "National Technical University of Athens (NTUA)"
+college = "National Technical University of Athens (NTUA), School of Rural and Surveying Engineering (SRSE)"
 dates = "2005 - 2010"
 degree = "Master in Rural and Surveying Engineering"
 
