@@ -6,7 +6,7 @@ theme = "aafu"
 author = "Nikolaos Bakogiannis"
 copyright = "this webspace is based on aafu theme for hugo"
 description = "Nikolaos Bakogiannis site"
-title = "nikoslaosBakogiannisWebsite"
+title = "nikolaosbakogiannisWebsite"
 
 [params.theme]
 # Available themes are 'light', 'dark', 'ocean', and 'pinkish'
