@@ -132,12 +132,11 @@ types = ["Journal Articles", "Proceedings"]
 authors = "Göbel, F., Bakogiannis, N., Henggeler, K., Tschümperlin, R., Xu, Y., Kiefer, P. and Raubal, M"
 date = "2018, January"
 journal = "In Eye Tracking for Spatial Research"
-title = "A Public Gaze-Controlled Campus Map. "
-type = "Proceedings of the 3rd International Workshop. ETH Zurich"
+title = "A Public Gaze-Controlled Campus Map. 3rd International Workshop. ETH Zurich"
+type = "Proceedings"
 url = "https://www.research-collection.ethz.ch/handle/20.500.11850/222491"
 
 [[params.publication.list]]
-
 authors = "Bakogiannis, N., Gkonos, C. and Hurni, L."
 date = "2019"
 journal = "Multimodal Technologies and Interaction, 3(1), p.22."
