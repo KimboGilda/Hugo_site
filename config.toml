@@ -150,7 +150,7 @@ icon = "fas fa-project-diagram"
 title = "Project"
 
 [[params.project.list]]
-description = "In einem Teilprojekt wurde auf der Basis von rapportierten Wildtier-Verkehrsunfällen aus drei Kantonen (Fribourg, Graubünden und Zürich) die Unfallgefahr auf Strassen für die ganze Schweiz modelliert. Diese Vorhersage wurde in drei unterschiedlichen statistischen Modellen umgesetzt."
+description = "Project member"
 title = "Prävention von Wildtierunfällen auf Verkehrsinfrastrukturen"
 url = "https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/ecosystems-and-biodiversity/geoinformatik/referenzprojekte/praevention-von-wildtierunfaellen-auf-verkehrsinfrastrukturen/"
 [[params.project.list]]
